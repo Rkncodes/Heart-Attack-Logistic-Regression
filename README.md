@@ -7,3 +7,14 @@
 ---
 # Heatmap for Colleration_Matrix
 ![img removed by user](https://github.com/Arjjun-S/heart_attack-logisticReggresion/blob/2db5111ef12cbc916c43482d9e9b7d18e5b8843f/heatmap.jpeg)
+
+**Tech Stack:** 
+Python 
+Scikit-learn
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook
+Logistic Regression Algorithm
+
